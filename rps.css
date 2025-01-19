@@ -215,7 +215,7 @@ h1 {
     .on-win-1, .on-win-2,
     .on-tie-1, .on-tie-2,
     .on-loss-1, .on-loss-2 {
-        top: 40%;
+        top: 65%;
         font-size: 3rem;
     }
     .compd, .box{
